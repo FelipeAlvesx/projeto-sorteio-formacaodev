@@ -1,0 +1,24 @@
+{
+  "name": "projeto-sorteio-formacaodev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeAlvesx/projeto-sorteio-formacaodev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FelipeAlvesx/projeto-sorteio-formacaodev/issues"
+  },
+  "homepage": "https://github.com/FelipeAlvesx/projeto-sorteio-formacaodev#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.0"
+  }
+}
