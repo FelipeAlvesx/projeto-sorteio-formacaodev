@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/FelipeAlvesx/projeto-sorteio-formacaodev#readme",
   "devDependencies": {
-    "@types/node": "^25.0.0"
+    "@types/node": "^25.0.0",
+    "@types/terminal-kit": "^2.5.7"
+  },
+  "dependencies": {
+    "terminal-kit": "^3.1.2"
   }
 }
